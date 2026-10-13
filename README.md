@@ -184,14 +184,14 @@ Main limitations:
 - External factors such as detailed weather conditions, air traffic restrictions, staffing, aircraft type, and airport congestion were not added as separate external datasets.
 - Recorded delay-cause minutes represent reported delay categories and should not be interpreted as a complete causal model of every delayed flight.
 - The Power BI dashboard uses aggregated PostgreSQL views for performance. Because the views are standalone, the dashboard does not use a single global slicer across every visual.
-- Raw and processed datasets are large and may need to be excluded from the public GitHub repository if they exceed GitHub file-size limits.
+- Raw and processed datasets are excluded from the public repository because of their size.
 
 ---
 
 ## Repository Structure
 
 ```text
-D30_Portfolio/
+us-airline-operational-performance-analytics/
 |
 ├── Dashboards/
 │   ├── Page1_OperationalOverview.png
