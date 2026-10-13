@@ -1,0 +1,3 @@
+WeekendFlag,TotalFlights,ValidArrivals,Delayed15Flights,ArrivalDelayRatePct,DayType
+0,5047058,4962142,1076949,21.7033087727034,Weekday
+1,1954561,1917342,457689,23.871015186649018,Weekend
